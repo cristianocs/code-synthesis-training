@@ -17,7 +17,8 @@
 ## Steps to Run the Project via Docker
 
 1. **Copy project files:**
-
+    ```bash
+    git clone https://github.com/cristianocs/code-synthesis-training.git
 2. **Navigate to the backend project directory:**
     ```bash
     cd task_manager_gemini_code_assist_sample
